@@ -1,0 +1,20 @@
+[
+  {
+    "prefix": "10.100.0.0/24",
+    "max_length": 24,
+    "asn": 100,
+    "authorized_neighbor": "172.16.12.1"
+  },
+  {
+    "prefix": "10.40.1.0/24",
+    "max_length": 24,
+    "asn": 400,
+    "authorized_neighbor": "172.16.24.2"
+  },
+  {
+    "prefix": "10.40.2.0/24",
+    "max_length": 24,
+    "asn": 400,
+    "authorized_neighbor": "172.16.34.1"
+  }
+]
